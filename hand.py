@@ -1,3 +1,5 @@
+# Copyright (C) 2013 by Ken Guyton.  All Rights Reserved.
+
 """A hand of cards that can identify poker hands."""
 
 

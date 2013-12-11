@@ -1,3 +1,5 @@
+# Copyright (C) 2013 by Ken Guyton.  All Rights Reserved.
+
 """A representation of playing cards."""
 
 import random

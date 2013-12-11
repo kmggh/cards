@@ -1,3 +1,5 @@
+# Copyright (C) 2013 by Ken Guyton.  All Rights Reserved.
+
 """A representation of a card player.
 
 A player can draw and hold cards.

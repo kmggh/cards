@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Tue 2012-03-06 23:14:28 -0500
+# Copyright (C) 2013 by Ken Guyton.  All Rights Reserved.
 
 """Run all tests."""
 

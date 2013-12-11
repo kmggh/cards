@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (C) 2013 by Ken Guyton.  All Rights Reserved.
 
 """Test a playing card."""
 
